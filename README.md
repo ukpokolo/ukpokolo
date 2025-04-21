@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm John-Vianney Ukpokolo!
 
-I'm a **creative frontend developer** with a passion for building sleek, user-friendly, and high-performance web applications. I specialize in creating responsive interfaces and optimizing user experiences — from property management platforms to music games and email marketing tools.
-
+I'm a **creative frontend developer** with a passion for building sleek, user-friendly, and high-performance web applications. I specialize in creating responsive interfaces and optimizing user experiences.
 ---
 
 ## 🚀 About Me
